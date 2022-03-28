@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mayank
-- 👀 I’m interested in developing cool reusable components with React.js
+- 👀 I’m interested in developing cool UI components with React.js
 - 🌱 I’m currently applying the complexities of MERN stack into the real world web applications
 - 💞️ I’m looking to collaborate on learning and developing cool things
 - 📫 you can reach me on linkedin - https://www.linkedin.com/in/mayanksingh07/
